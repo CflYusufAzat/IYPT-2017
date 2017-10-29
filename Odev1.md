@@ -7,7 +7,7 @@ Sınıf | Öğrenci İsmi  | Numara
 9-C  | Yusuf Ali Demirkıran | 517
 9-C  | Azat Zübeyr Bingöl | 604
 
-#  (buraya proje başlığını yazınız)
+#  (Einstein- de Haas Experiment)
 ## Özet
 Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
 
