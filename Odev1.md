@@ -13,10 +13,9 @@ NOT: Toplam açısal momentum:Açısal momentum, fizikte herhangi bir cismin sah
      Ferromanyetik madde:Bağıl manyetik geçirgenlikleri 1’den çok büyük olan maddelerdir.Kuvvetli bir şekilde mıknatıslardan etkilenen maddelerdir, Demir, nikel, kobalt ve alaşımlarını içeren maddeler bu gruba girer.
 ## Kaynakçalar  
 
-1)http://www.physics.umd.edu/grt/taj/411c/EinsteindeHaas.pdf
+1)Ganzhorn vd., M. vd.
+https://www.nature.com/articles/ncomms11443
 
-2)https://www.nature.com/articles/ncomms11443
+2)https://en.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRWluc3RlaW7igJNkZV9IYWFzX2VmZmVjdA
 
-3)https://en.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRWluc3RlaW7igJNkZV9IYWFzX2VmZmVjdA
-
-4)https://van.physics.illinois.edu/qa/listing.php?id=417
+3)https://van.physics.illinois.edu/qa/listing.php?id=417
