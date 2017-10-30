@@ -19,3 +19,5 @@ https://www.nature.com/articles/ncomms11443, Erişim: 29 Ekim 2017
 2)Wikipedia, https://en.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRWluc3RlaW7igJNkZV9IYWFzX2VmZmVjdA, Erişim:29 Ekim 2017
 
 3)Mike W., https://van.physics.illinois.edu/qa/listing.php?id=417, Erişim: 29 Ekim 2017
+
+4)Frenkel, F. Y. ,http://www.physics.umd.edu/grt/taj/411c/EinsteindeHaas.pdf, Erişim: 29 Ekim 2017
