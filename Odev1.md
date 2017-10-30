@@ -14,8 +14,8 @@ NOT: Toplam açısal momentum:Açısal momentum, fizikte herhangi bir cismin sah
 ## Kaynakçalar  
 
 1)Ganzhorn vd., M. vd.
-https://www.nature.com/articles/ncomms11443
+https://www.nature.com/articles/ncomms11443, Erişim: 29 Ekim 2017
 
-2)https://en.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRWluc3RlaW7igJNkZV9IYWFzX2VmZmVjdA
+2)Wikipedia, https://en.0wikipedia.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvRWluc3RlaW7igJNkZV9IYWFzX2VmZmVjdA, Erişim:29 Ekim 2017
 
-3)https://van.physics.illinois.edu/qa/listing.php?id=417
+3)Mike W., https://van.physics.illinois.edu/qa/listing.php?id=417, Erişim: 29 Ekim 2017
